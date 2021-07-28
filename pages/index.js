@@ -13,7 +13,7 @@ export default function Home({results}) {
   return (
     <div >
       <Head>
-        <title>Create Next App</title>
+        <title>hulu.2.0</title>
        
         <link rel="icon" href="/favicon.ico" />
         
